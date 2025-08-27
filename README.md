@@ -89,7 +89,7 @@ Total Bill: ₹500.0
 
 ## UML Diagram
 
-![UML Diagram](https://drive.google.com/file/d/1sVG7RyCfxeg6ghcYPFFNeSRrN0Bwh_Gk/view?usp=sharing)
+![UML Diagram](Edinecartuml.png)
 
 ---
 
